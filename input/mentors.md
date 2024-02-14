@@ -119,3 +119,21 @@ or (less preferably) send me an email.
   classes, by teaching classified ideas, you will achieve proper mastery in
   problem-solving and in more advanced levels, you will also learn how to
   create new ideas!
+
+  ## {{ hl("farzad", "Farzad Rashidi") }}
+- Contact: $\text{farzadmatholympiad}@\text{gmail}{.}\text{com}$
+- Open to both 1:1 and group lessons.
+- I am interested in teaching Algebra to students who are interested in participating
+  in Math Olympiads. My goal is to provide all the key ideas and concepts necessary to
+  solve the types of Algebra problems presented in Math Olympiad competitions.
+  I strive to start from the very basics of Algebra and methodically build students' skills
+ and understanding, taking them from introductory topics all the way up to an advanced yet 
+ accessible level. I aim to convey each new technique in a clear and step-by-step manner, 
+ providing numerous examples to ensure comprehension. Regular practice problems and exercises
+ are also incorporated to reinforce lessons and allow students to gain proficiency in applying their new algebraic skills.
+ In addition to covering core Algebra topics like equations, inequalities, functions equations and polynomials, I also explore
+ number theory in algebra, proof techniques, and advanced problem-solving strategies frequently seen in competitive math exams.
+ My specialty and passion lies in teaching the kind of high-level yet applicable Algebra that strengthens students' mathematical
+ maturity and boosts their potential for success in math competitions. Students will gain a strong conceptual foundation as well
+s the technical ability to confidently approach and systematically solve multi-step and complex Algebra word problems. I am dedicated
+to helping motivated learners thrive in Algebra and achieve their math goals through engaging one-on-one and small-group instruction.
